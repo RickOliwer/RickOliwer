@@ -16,7 +16,7 @@ I build fast, accessible web apps with **Next.js**, **TypeScript**, and **Tailwi
 
 ### 🎯 About me
 
-- Clean, scalable code is my thing
+- Striving for code that's clean and collaborative
 - I self-host stuff and like building systems that last
 - Big fan of collaboration, minimalism, and solving real problems
 - Off screen: hiking, table tennis, good food & live music 🎵
