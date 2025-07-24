@@ -11,7 +11,7 @@ I care a lot about clean architecture, performance, and developer experience.
 - 🔨 I mostly work with React/Next.js + Node.js
 - 🧱 Strong focus on reusable components and scalable structure
 - ⚙️ I like building systems that are easy to maintain and grow
-- 🧪 Into testing, accessibility, performance, and clean code
+- 🧪 Into Accessibility, performance, and clean code
 - 🧰 I self-host things, use Docker and manage my own VPS servers
 
 ---
