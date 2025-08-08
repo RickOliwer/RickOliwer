@@ -12,6 +12,10 @@ I build fast, accessible web apps with **Next.js**, **TypeScript**, and **Tailwi
 **Database:** PostgreSQL, MySQL, Drizzle ORM, Prisma  
 **Infra:** Docker, GitHub Actions, Ubuntu VPS, Vercel
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
+![](https://github-readme-stats.vercel.app/api?username=RickOliwer&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ---
 
 ### 🎯 About me
