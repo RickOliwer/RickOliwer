@@ -1,6 +1,6 @@
 ## Hi, I'm Rick 👋
 
-Fullstack developer based in Malmö 🇸🇪  
+<img align="center" src="https://img.shields.io/badge/Full%20Stack-Engineer-brightgreen"/> based in Malmö 🇸🇪  
 I build fast, accessible web apps with **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 ---
